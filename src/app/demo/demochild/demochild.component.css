@@ -1,0 +1,14 @@
+div{
+    margin: 10px 0;
+    padding: 10px;
+    background-color: lightgray;
+}
+
+label{
+    background-color: white;
+    margin-right: 10px;
+    padding: 2px;
+}
+span{
+    padding: 10px;
+}

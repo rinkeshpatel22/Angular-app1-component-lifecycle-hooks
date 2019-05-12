@@ -1,0 +1,10 @@
+
+<h3>This is parent component.</h3>
+
+<app-demochild *ngIf="hasChild"></app-demochild>
+
+<p> {{hasChild? 'Destroy' : 'Create'}} child component by clicking below button and observe console log. It will log each lifecycle hooks when they called.</p>
+
+<button (click)="hasChild = !hasChild">{{hasChild? 'Destroy' : 'Create'}}  child component</button>
+
+
