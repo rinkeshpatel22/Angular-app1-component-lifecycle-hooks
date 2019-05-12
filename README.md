@@ -1,4 +1,4 @@
-# AngularApp1ComponentLifecycleHooks
+# Angular demo application for Component lifecycle hooks
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
 
